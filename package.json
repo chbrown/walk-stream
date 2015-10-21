@@ -1,0 +1,25 @@
+{
+  "name": "walk-stream",
+  "version": "0.1.0",
+  "description": "Streaming filesystem walk",
+  "keywords": [
+    "filesystem",
+    "walk",
+    "streams",
+    "recursive"
+  ],
+  "homepage": "https://github.com/chbrown/walk-stream",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chbrown/walk-stream.git"
+  },
+  "bugs": {
+    "email": "Christopher Brown <io@henrian.com>",
+    "url": "http://github.com/chbrown/walk-stream/issues"
+  },
+  "license": "MIT",
+  "author": "Christopher Brown <io@henrian.com> (http://henrian.com)",
+  "devDependencies": {
+    "typescript": "next"
+  }
+}
